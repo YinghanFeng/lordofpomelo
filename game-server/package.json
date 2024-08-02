@@ -18,7 +18,7 @@
   , "pomelo-collection": ">=0.1.0"
   , "pomelo-logger": "0.0.3"
   , "pomelo-monitor": ">=0.3.3"
-  , "pomelo-sync-plugin": "0.0.1"
+  , "pomelo-sync-plugin": "0.0.2"
   , "pomelo-masterha-plugin": "0.0.4"
   , "underscore": "1.5.2"
   , "node-zookeeper-client": "0.2.0"
